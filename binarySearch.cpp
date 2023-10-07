@@ -24,7 +24,7 @@ int binarySearch(int A[], int n, int x) {
 }
 
 int main() {
-    int a[] = {1, 3, 5, 7, 9, 10, 35, 124};
+    int a[] = {1, 3, 5, 7, 9, 10, 35, 150};
     // cout << binarySearch(a, sizeof(a) / sizeof(int), 10);
     int x = 5;
     int y = 2;
