@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//binarySearch function
 int binarySearch(int A[], int n, int x) {
     int start = 0;
     int end = n - 1;
